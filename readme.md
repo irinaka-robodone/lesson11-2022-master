@@ -6,3 +6,5 @@
 # 制作物
 
 Python の GUI フレームワーク "tkinter" を使ったGUIアプリケーション制作の練習
+
+lesson 12 の成果物もこの lesson 11 の main.py で書いています！
